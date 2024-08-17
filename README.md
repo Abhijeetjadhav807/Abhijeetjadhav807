@@ -1,4 +1,4 @@
-
+![logo](https://github.com/mangesh0051/Mangesh0051/blob/main/202650321-7f4da361-f98f-4345-8df4-adf352a11322.gif)
 <h1 align="center">Hi 👋, I'm Abhijeet Jadhav</h1>
 <h3 align="center">Data Scientist | Data Analyst</h3>
 <p align="center">I am a data scientist with a passion for building machine learning models and computer vision projects. Leet code lover.</p>
@@ -6,6 +6,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhijeetjadhav807&label=Profile%20views&color=0e75b6&style=flat" alt="abhijeetjadhav807" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abhijeetjadhav807" alt="abhijeetjadhav807" /></a> </p>
+
+<img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/7de37139d0b4c1ce40865e799b446c0e963a3dd8fb68d239707237c40604fa3d/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
 
 - 🌱 I’m currently learning **deep learning**
 
